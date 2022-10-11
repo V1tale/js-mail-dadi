@@ -1,0 +1,46 @@
+.container {
+    width:70%;
+    margin:auto;
+}
+.top {
+    margin:auto;
+}
+.top {
+    background-color: rgb(161, 41, 41);
+    color:white
+}
+.bottom {
+    background-color: rgb(0, 0, 71);
+    height: 400px;
+    padding: 2rem 0;
+}
+.top span {
+    background-color: yellow;
+    color: red;
+}
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    padding: 2rem 0;
+}
+p {
+    font-size: 1.6rem;
+    padding: 2rem;
+    line-height: 2.5rem;
+}
+h2 {
+    font-size: 6rem;
+}
+#number {
+    font-size: 2rem;
+    padding: 5px 15px;
+    margin: 2rem 0;
+}
+#usernumber {
+    border-bottom: 2px solid lime;
+    color:lime
+}
+#pcnumber {
+    border-bottom: 2px solid fuchsia;
+    color: fuchsia;
+}
