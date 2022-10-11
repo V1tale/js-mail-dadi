@@ -1,0 +1,27 @@
+main {
+    height: 100vh;
+}
+
+.container {
+    width:80%;
+    padding: 50px;
+    background-color: white;
+    margin:auto;
+    position:relative;
+    top:50vh;
+    left:0;
+}
+.container * {
+    display: block;
+    margin: 5px;
+}
+.container:first-child {
+    font-size: 1.8rem;
+
+}
+.container button {
+    padding: 5px 15px;
+}
+.text, .input {
+    width: 50%;
+}

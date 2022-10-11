@@ -16,7 +16,7 @@ for (let i = 0; i < email.length; i++) {
 }
 console.log(convalidated);
     if (convalidated) {
-        alert("Accesso consentito");
+        alert("Accesso consentito: Il segreto della vita è l'acqua tonica.");
     } else {  
         alert("Accesso negato");
     }
